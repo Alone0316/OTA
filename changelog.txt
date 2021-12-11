@@ -1,0 +1,4 @@
+Build Type: Beta
+Device: Redmi note 4x (mido)
+Device maintainer: Alone0316
+Android Version: 12
